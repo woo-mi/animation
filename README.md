@@ -1,8 +1,8 @@
-# Owl onboarding prototype
+# Animation
 
 A standalone copy of the Onboarding flow from https://woo-mi.github.io/owl/.
 
-Live prototype: https://woo-mi.github.io/owl-onboarding-prototype/
+Live prototype: https://woo-mi.github.io/animation/
 
 Source snapshot: woo-mi/owl at d276a27 (connect-your-apps/v3).
 
